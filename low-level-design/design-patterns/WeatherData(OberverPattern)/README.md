@@ -1,0 +1,1 @@
+# Implementing WeatherData from Head First Design Patterns (2E) book
